@@ -7,6 +7,7 @@
  * オプション
  * - -q 変換のクオリティを指定。未指定の場合は90で変換
  * - --force-update 既に同名のwebpファイルがある場合、スキップせず上書きする
+ * - --delete ファイルを削除する
  *
  * インストール
  * - brew install webp
@@ -39,6 +40,11 @@ if (argv._.length > 0) {
       if (answer == "y" || answer === "") {
         for (const filePath of imageFilePaths) {
           await convertImageFile(filePath);
+        }
+        if (argv["delete"]) {
+          await quiet($`find . -type f -name "*.png" -delete`);
+          await quiet($`find . -type f -name "*.jp*g" -delete`);
+          console.log(chalk.green(`>> SUCCESS: DELETE png/jpg files`));
         }
       }
     } else {
