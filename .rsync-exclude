@@ -1,0 +1,8 @@
+100_no_backup*
+.next
+.git
+.DS_Store
+.parcel-cache
+node_modules
+releases
+vendor

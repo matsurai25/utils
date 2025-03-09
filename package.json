@@ -18,6 +18,7 @@
   "homepage": "https://github.com/matsurai25/utils#readme",
   "dependencies": {
     "byte-size": "^8.1.0",
+    "node-notifier": "^10.0.1",
     "zx": "^7.2.1"
   }
 }
