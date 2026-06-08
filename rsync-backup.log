@@ -1,0 +1,1970 @@
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
+Starting rsync backup from /Users/matsurai/works to matsurai@matsurai-nas:/volume1/Archive/...
+$ rsync -avh  --exclude-from=/Users/matsurai/utils/.rsync-exclude --info=progress2 /Users/matsurai/works matsurai@matsurai-nas:/volume1/Archive/
+rsync: --info=progress2: unknown option
+rsync error: syntax or usage error (code 1) at /AppleInternal/Library/BuildRoots/ce725a5f-c761-11ee-a4ec-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/rsync/rsync/main.c(1337) [client=2.6.9]
+Backup failed.
